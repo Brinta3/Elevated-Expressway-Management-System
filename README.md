@@ -1,6 +1,7 @@
 Elevated Expressway Management System (EEMS)
 Description
 The Elevated Expressway Management System (EEMS) is a multi-layer C# Windows Forms application designed to simulate the operations of an expressway. This project uses OOP concepts, multiple forms, and SQL database integration to manage toll operations, control center administration, and patrol monitoring.
+![Elevated Expressway Management System Demo](https://github.com/Brinta3/Elevated-Expressway-Management-System/blob/e9e51665909da135949299ad4f347139634f05e3/ezgif.com-animated-gif-maker.gif?raw=true)
 
 The system demonstrates real-world functionalities like user management, vehicle tracking, toll collection, report generation, and incident monitoring in a simple, educational environment.
 
